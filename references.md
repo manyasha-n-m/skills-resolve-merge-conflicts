@@ -1,3 +1,2 @@
-# References
+Entering evil text to create merge conflict uahaha
 
-* octocat 1 😈
